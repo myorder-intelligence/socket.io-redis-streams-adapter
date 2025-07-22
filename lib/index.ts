@@ -1,5 +1,5 @@
 export {
   createAdapter,
   RedisStreamsAdapterOptions,
-  RedisStreamsAdapter,
+  RedisStreamsAdapter
 } from "./adapter";
